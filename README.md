@@ -1,5 +1,7 @@
 # 🦆
 
+![Metrics](https://metrics.lecoq.io/AndreasPB?template=classic&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&stars=1&projects=1&notable=1&stars.limit=4&projects.limit=4&projects.descriptions=false&notable.repositories=false&config.timezone=Europe%2FCopenhagen)
+
 <!--
 **AndreasPB/AndreasPB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
