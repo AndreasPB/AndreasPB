@@ -1,4 +1,4 @@
-![Metrics](https://metrics.lecoq.io/AndreasPB?template=classic&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&stars=1&notable=1&stars.limit=4&notable.repositories=true&config.timezone=Europe%2FCopenhagen&config.display=large)
+:duck:
 
 <!--
 **AndreasPB/AndreasPB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
