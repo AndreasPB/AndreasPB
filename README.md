@@ -1,5 +1,4 @@
-:duck:
-
+![duck](https://user-images.githubusercontent.com/43907402/153923552-54344071-4278-4e78-b628-5f2b412a6b8d.gif)
 <!--
 **AndreasPB/AndreasPB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
